@@ -1,0 +1,11 @@
+{
+  "itemGroup.backrooms": "Backrooms",
+  "block.backrooms.error_block": "Error Block",
+  "block.backrooms.the_way_back": "The Way Back",
+  "item.backrooms.almond_water": "Almond Water",
+
+  "backrooms.configuration.title": "Boxy's Backrooms Configs",
+  "backrooms.configuration.section.backrooms.common.toml": "Boxy's Backrooms Configs",
+  "backrooms.configuration.section.backrooms.common.toml.title": "Boxy's Backrooms Configs",
+  "backrooms.configuration.netherRooms": "Nether Entrance"
+}
