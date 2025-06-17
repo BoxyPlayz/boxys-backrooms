@@ -1,0 +1,59 @@
+{
+  "temperature": 50,
+  "downfall": 100,
+  "has_precipitation": true,
+  "temperature_modifier": "none",
+  "effects": {
+    "sky_color": 1557648,
+    "fog_color": 16514826,
+    "water_color": 43028,
+    "water_fog_color": 8307846,
+    "grass_color": 9892410,
+    "foliage_color": 6379661
+  },
+  "spawners": {
+    "creature": [
+      {
+        "type": "minecraft:cow",
+        "weight": 1,
+        "minCount": 2,
+        "maxCount": 16
+      },
+      {
+        "type": "minecraft:pig",
+        "weight": 1,
+        "minCount": 2,
+        "maxCount": 16
+      },
+      {
+        "type": "minecraft:sheep",
+        "weight": 1,
+        "minCount": 2,
+        "maxCount": 16
+      }
+    ]
+  },
+  "spawn_costs": {},
+  "carvers": {
+    "air": [
+      "minecraft:cave_extra_underground",
+      "minecraft:canyon"
+    ]
+  },
+  "features": [
+    [
+      "minecraft:trees_plains",
+      "minecraft:ore_coal_upper",
+      "minecraft:ore_diamond",
+      "minecraft:ore_copper_large",
+      "minecraft:ore_iron_middle",
+      "minecraft:ore_blackstone",
+      "minecraft:ore_andesite_upper",
+      "minecraft:ore_debris_small",
+      "minecraft:ore_gold_extra",
+      "minecraft:ore_redstone",
+      "minecraft:ore_lapis",
+      "minecraft:ore_clay"
+    ]
+  ]
+}

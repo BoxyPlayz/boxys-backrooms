@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "entered_barrier": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "from": "backrooms:barrier",
+        "to": "minecraft:overworld"
+      }
+    }
+  },
+  "display": {
+    "icon": {
+      "count": 1,
+      "id": "backrooms:the_way_back"
+    },
+    "title": "The Way Out",
+    "description": "Escape that terrible place",
+    "frame": "goal",
+    "hidden": true
+  },
+  "requirements": [
+    [
+      "entered_barrier"
+    ]
+  ],
+  "rewards": {
+    "loot": [],
+    "recipes": [],
+    "experience": 4000
+  }
+}
